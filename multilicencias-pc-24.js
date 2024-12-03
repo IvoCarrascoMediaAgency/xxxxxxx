@@ -156,7 +156,7 @@ const pedido_store = {
             antes:39.98,
             price:19.99,
             qty:0,
-            img:'img/imgproduc/crm-whatsapp-gratis.webp',
+            img:'img/imgproduc/semestral-basico.webp',
   
             detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 cuenta CRM WhatsApp Semestral</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li><li> <i ></i>Programar campañas masivas</li><li> <i ></i>Gestión de contactos</li><li> <i ></i>Genera embudos de venta</li><li> <i ></i>ChatBot + WorkFlow + Menús</li><li> <i ></i>Crea Reglas Automatizadas</li> <li> <i ></i>Crea recordatorios recurrentes</li> <li> <i ></i>Agrega atributos personalizados CRM</li><li> <i ></i>Crea recordatorios y notas de trabajo</li><li><li> <i ></i>Crea respuestas rápidas</li><li> <i ></i>Genera Plantillas</li><li> <i ></i>Exporta e importa Backups</li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Capacitación con videos tutoriales</span></li></ul></div></div>',
             linkpago:'https://ppls.me/bhj7mtJhTb7AAm9jyucwOg',
@@ -169,7 +169,7 @@ const pedido_store = {
             antes:239.98,
             price:119.99,
             qty:0,
-            img:'img/imgproduc/crm-para-whatsapp-y-redes-sociales.webp',
+            img:'img/imgproduc/anual-basico.webp',
             detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 cuenta CRM WhatsApp 12 Meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li><li> <i ></i>Programar campañas masivas</li><li> <i ></i>Gestión de contactos</li><li> <i ></i>Genera embudos de venta</li><li> <i ></i>ChatBot + WorkFlow + Menús</li><li> <i ></i>Crea Reglas Automatizadas</li> <li> <i ></i>Crea recordatorios recurrentes</li> <li> <i ></i>Agrega atributos personalizados CRM</li><li> <i ></i>Crea recordatorios y notas de trabajo</li><li><li> <i ></i>Crea respuestas rápidas</li><li> <i ></i>Genera Plantillas</li><li> <i ></i>Exporta e importa Backups</li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación Personalizada</span></li></ul></div></div>',
             linkpago:'https://ppls.me/XzjJG9TNCHKWHtTPq3ZvMg',
             },
@@ -222,7 +222,7 @@ const pedido_store = {
                 antes:79.98,
                 price:39.99,
                 qty:0,
-                img:'img/imgproduc/crm-whatsapp-facebook-instagram-gratis.webp',
+                img:'img/imgproduc/semestral-multicuenta.webp',
       
                 detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>5 cuentas CRM WhatsApp Semestral</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li><li> <i ></i>Programar campañas masivas</li><li> <i ></i>Gestión de contactos</li><li> <i ></i>Genera embudos de venta</li><li> <i ></i>ChatBot + WorkFlow + Menús</li><li> <i ></i>Crea Reglas Automatizadas</li> <li> <i ></i>Crea recordatorios recurrentes</li> <li> <i ></i>Agrega atributos personalizados CRM</li><li> <i ></i>Crea recordatorios y notas de trabajo</li><li><li> <i ></i>Crea respuestas rápidas</li><li> <i ></i>Genera Plantillas</li><li> <i ></i>Exporta e importa Backups</li><li> <span class="masc">Soporte</span></li><li><span class="masc">Capacitación con Tutoriales</span></li></ul></div></div>',
                 linkpago:'https://ppls.me/Hp1YnMnDv5LSJoZZ2KL7ow',
@@ -235,7 +235,7 @@ const pedido_store = {
                 antes:479.98,
                 price:239.99,
                 qty:0,
-                img:'img/imgproduc/crm-whatsapp-business.webp',
+                img:'img/imgproduc/anual-multicuenta.webp',
                 detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>5 cuentas CRM WhatsApp Anual</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li><li> <i ></i>Programar campañas masivas</li><li> <i ></i>Gestión de contactos</li><li> <i ></i>Genera embudos de venta</li><li> <i ></i>ChatBot + WorkFlow + Menús</li><li> <i ></i>Crea Reglas Automatizadas</li> <li> <i ></i>Crea recordatorios recurrentes</li> <li> <i ></i>Agrega atributos personalizados CRM</li><li> <i ></i>Crea recordatorios y notas de trabajo</li><li><li> <i ></i>Crea respuestas rápidas</li><li> <i ></i>Genera Plantillas</li><li> <i ></i>Exporta e importa Backups</li><li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación Personalizada</span></li></ul></div></div>',
                 linkpago:'https://ppls.me/n7wORryaNsejLVL1zvPuww',
                 },
@@ -286,7 +286,7 @@ const pedido_store = {
              antes:399.98,
              price:199.99,
              qty:0,
-             img:'img/imgproduc/whatsapp-multiagente-gratis.webp',
+             img:'img/imgproduc/reseller-global.webp',
    
              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li class="masc"><i ></i></li><li><i class="fas fa-stop-circle"></i></li><li><i ></i> Capacitación personalizada del negocio</li><li><i ></i> Comisiones 100%</li></ul></div></div>',
              linkpago:'https://payp.page.link/KciX',
@@ -299,7 +299,7 @@ const pedido_store = {
              antes:799.98,
              price:399.99,
              qty:0,
-             img:'img/imgproduc/crm-whatsapp-barato.webp',
+             img:'img/imgproduc/reseller-whitelabel.webp',
              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li class="masc"><i ></i></li><li><i class="fas fa-stop-circle"></i> </li><li><i ></i> Capacitación personalizada del negocio</li><li><i ></i> Comisiones 100%</li><li class="masc"><i ></i> Software con tu marca propia, colores, logo, números de contacto, links de redes sociales.</li></ul></div></div>',
              linkpago:'https://payp.page.link/YYJ5',
              },
@@ -2783,15 +2783,15 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
   
   
   
-  var recaptcha_response1 = '';
+  // var recaptcha_response1 = '';
   function submitUserForm1() {
-      if(recaptcha_response1.length == 0) {
-          document.getElementById('g-recaptcha-error1').innerHTML = '<span style="color:red;">This field is required.</span>';
-          return false;
+      // if(recaptcha_response1.length == 0) {
+      //     document.getElementById('g-recaptcha-error1').innerHTML = '<span style="color:red;">This field is required.</span>';
+      //     return false;
   
   
           
-      }
+      // }
           $('#gform2 *').fadeOut(2000);
       $('#gform2').prepend('<div class="cerrardata2"> <div><span class="icon-flecha-izq"></span></div></div> <br><p class="pgracias">¡Gracias! Tu pedido ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones para realizar el pago. 🙂</p>');
     
@@ -2809,10 +2809,10 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
   
   
           
-  function verifyCaptcha1(token) {
-      recaptcha_response1 = token;
-      document.getElementById('g-recaptcha-error1').innerHTML = '';
-  }
+  // function verifyCaptcha1(token) {
+  //     recaptcha_response1 = token;
+  //     document.getElementById('g-recaptcha-error1').innerHTML = '';
+  // }
   
   
      
@@ -3019,31 +3019,31 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
   
   
     
-  var recaptcha_response2 = '';
-  function submitUserForm2() {
-      if(recaptcha_response2.length == 0) {
-          document.getElementById('g-recaptcha-error2').innerHTML = '<span style="color:red;">This field is required.</span>';
-          return false;
+  // var recaptcha_response2 = '';
+  // function submitUserForm2() {
+  //     if(recaptcha_response2.length == 0) {
+  //         document.getElementById('g-recaptcha-error2').innerHTML = '<span style="color:red;">This field is required.</span>';
+  //         return false;
           
-      }
+  //     }
     
-      $('#gform3 *').fadeOut(2000);
-      $('#gform3').prepend('<p class="pgracias">¡Gracias! Tu formulario ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones🙂</p>');
+  //     $('#gform3 *').fadeOut(2000);
+  //     $('#gform3').prepend('<p class="pgracias">¡Gracias! Tu formulario ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones🙂</p>');
       
     
   
-      goToPageayuda();
+  //     goToPageayuda();
       
    
-  }
+  // }
   
   
   
       
-  function verifyCaptcha2(token) {
-    recaptcha_response2 = token;
-    document.getElementById('g-recaptcha-error2').innerHTML = '';
-  }
+  // function verifyCaptcha2(token) {
+  //   recaptcha_response2 = token;
+  //   document.getElementById('g-recaptcha-error2').innerHTML = '';
+  // }
   
   
   
