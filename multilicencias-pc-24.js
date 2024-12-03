@@ -1902,7 +1902,7 @@ comicpay.style.display = 'block';
     //     //   "Aún no haz selecionado prodcutos")
     //   }
     //  else{
-      window.open(document.getElementById("enviarwa").href = "https://api.whatsapp.com/send?phone=529211150663" + whatsapp_number);
+      window.open(document.getElementById("enviarwa").href = "https://api.whatsapp.com/send?phone=525638110290" + whatsapp_number);
     //  }
         
       
@@ -1915,7 +1915,7 @@ comicpay.style.display = 'block';
   
      } else {
      
-       window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=529211150663" + whatsapp_number);
+       window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=525638110290" + whatsapp_number);
   
     //   window.open(fanlink)
   
@@ -2886,12 +2886,12 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
     var md = new MobileDetect(window.navigator.userAgent);
        if (md.mobile()) {
   
-        window.open(document.getElementById("enviarwa2").href = "https://api.whatsapp.com/send?phone=529211150663" + myWindow);
+        window.open(document.getElementById("enviarwa2").href = "https://api.whatsapp.com/send?phone=525638110290" + myWindow);
         
        
           } else {
        
-        window.open(document.getElementById("enviarwa2").href = "https://web.whatsapp.com/send?phone=529211150663" + myWindow);
+        window.open(document.getElementById("enviarwa2").href = "https://web.whatsapp.com/send?phone=525638110290" + myWindow);
    
        
        
@@ -2946,10 +2946,10 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
     //   "Selecciona una hora")
     // }
   
-  //   var myWindow = window.open ("https://api.whatsapp.com/send?phone=529211150663&text="+"Capacitación y Prueba de" + "%20" + "*WhatsBulkSender™*" + "%0A"+"✅ _Registro confirmado_" + "%0A"+"_________________________" + "%0A"+"%0A"+ "*Nombre*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*Nombre del Negocio*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*Tipo de Negocio*"+"%0A" + tipodenegocio + "%20" +"%0A"+ "%0A"+ "_________________________" + "%0A" + "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *WhatsBulkSender* para recibir actualizaciones y soporte 😉👍");
+  //   var myWindow = window.open ("https://api.whatsapp.com/send?phone=525638110290&text="+"Capacitación y Prueba de" + "%20" + "*WhatsBulkSender™*" + "%0A"+"✅ _Registro confirmado_" + "%0A"+"_________________________" + "%0A"+"%0A"+ "*Nombre*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*Nombre del Negocio*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*Tipo de Negocio*"+"%0A" + tipodenegocio + "%20" +"%0A"+ "%0A"+ "_________________________" + "%0A" + "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *WhatsBulkSender* para recibir actualizaciones y soporte 😉👍");
   
   
-  //  window.location = "https://api.whatsapp.com/send?phone=529211150663&text="+ "*Hola me llamo:*" + "%0A" + nombre + "%20" +"%0A" + nombrenegocio +  "%20" + "%0A" + tipodenegocio + "%20" + "%0A";
+  //  window.location = "https://api.whatsapp.com/send?phone=525638110290&text="+ "*Hola me llamo:*" + "%0A" + nombre + "%20" +"%0A" + nombrenegocio +  "%20" + "%0A" + tipodenegocio + "%20" + "%0A";
   
   
   $(".ordernumber2").val(function(){
@@ -2993,7 +2993,7 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
   //     //   "Aún no haz selecionado prodcutos")
   //   }
   //  else{
-    window.open(document.getElementById("enviarwat").href = "https://api.whatsapp.com/send?phone=529211150663" + whatsapp_number);
+    window.open(document.getElementById("enviarwat").href = "https://api.whatsapp.com/send?phone=525638110290" + whatsapp_number);
   //  }
       
     
@@ -3006,7 +3006,7 @@ var totaltrans= parseFloat(sbtotal.replace("$", ""));
   
    } else {
    
-     window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=529211150663" + whatsapp_number);
+     window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=525638110290" + whatsapp_number);
   
     
   
